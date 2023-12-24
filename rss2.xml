@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>观道观</title>
-    <link>http://toadventure.github.io/project/</link>
+    <link>https://luckytoadventure.com/</link>
     
-    <atom:link href="http://toadventure.github.io/project/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://luckytoadventure.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>选择有时候比努力更重要</description>
     <pubDate>Sat, 23 Dec 2023 12:14:58 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://toadventure.github.io/project/2023/12/23/hello-world/</link>
-      <guid>http://toadventure.github.io/project/2023/12/23/hello-world/</guid>
+      <link>https://luckytoadventure.com/2023/12/23/hello-world/</link>
+      <guid>https://luckytoadventure.com/2023/12/23/hello-world/</guid>
       <pubDate>Sat, 23 Dec 2023 12:14:58 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>http://toadventure.github.io/project/2023/12/23/hello-world/#disqus_thread</comments>
+      <comments>https://luckytoadventure.com/2023/12/23/hello-world/#disqus_thread</comments>
       
     </item>
     
